@@ -1,6 +1,6 @@
 /* CSS Style Sheet */
 body {
-    background-color: #4C4C4C;
+    background-color: hsl(0, 0%, 30%);
     width: 600px;
     margin: 25px auto;
     text-align: center;
@@ -17,7 +17,6 @@ body {
         padding: 5px 20px;
         font-variant: small-caps;
         border-radius: 5px;
-        font-family: 'Fjalla One', sans-serif;
       }
       button:hover{
         background-color: rgba(145, 177, 138, 0.7);
@@ -33,4 +32,5 @@ body {
             color: white;
             padding: 20px 0;
             border-radius: 25px;
+            margin: 25px auto;
           }

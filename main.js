@@ -12,5 +12,3 @@ function btnclicked() {
         alert("Login Unsuccessful");
     }
 }
-
-
